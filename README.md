@@ -4,9 +4,13 @@ A **Tic-Tac-Toe** game with AI opponent and GUI, built with **Java Swing** durin
 
 ## Features
 ✔ Player vs Player mode 
+
 ✔ Player vs Computer mode 
+
 ✔ AI opponent with smart moves  
+
 ✔ Smooth animations  
+
 ✔ Win detection  
 
 ## How to Run
